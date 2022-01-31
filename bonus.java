@@ -5,7 +5,7 @@ public class bonus {
       Scanner keyboard = new Scanner(System.in);
       System.out.println("What is your name?");
       String name = keyboard.nextLine();
-      System.out.pirntln("Hello, " + name);
+      System.out.println("Hello, " + name);
       
     }
 }
